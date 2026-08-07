@@ -3,7 +3,6 @@
 SELECT COUNT(*) 
 FROM payment
 WHERE amount BETWEEN 8 AND 9;
-
 -- Goal: Retrieve all payments made between February 1 and February 14, 2007
 SELECT *
 FROM payment
